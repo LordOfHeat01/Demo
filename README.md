@@ -1,4 +1,4 @@
 # Demo
 This is my  first Git repository.
 <br>
-Author Tapendra Verma
+Author Tapendra Singh Verma
